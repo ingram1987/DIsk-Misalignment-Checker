@@ -1,7 +1,7 @@
-﻿###################################################
+###################################################
 ###########Disk Misalignment Checker###############
 #############Created by ingram1987#################
-############Created on May 23, 2023################
+############Created on May 11, 2023################
 ###################################################
 
 # Script inspired by this article: https://support.quest.com/kb/4035614/volume-offset-or-disk-misalignment-errors
